@@ -1,0 +1,3 @@
+[submodule "lib/hello-moon"]
+	path = lib/hello-moon
+	url = https://github.com/haflo1/hello-moon.git
